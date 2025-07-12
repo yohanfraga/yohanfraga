@@ -6,17 +6,23 @@
 I'm a **Software Engineer** dedicated to building robust, scalable, and maintainable solutions. With a strong focus on clean code, SOLID principles, and modern architectural patterns, I am committed to delivering high-quality software. When I'm not coding, you can find me building with LEGO, diving into the Star Wars universe, or enjoying some music.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j32p4a6j5aYkU/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/yohanfraga">
-    <img src="https://github-readme-stats.vercel.app/api?username=yohanfraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yohan Fraga's GitHub Stats" />
-  </a>
-  <a href="https://github.com/yohanfraga">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanfraga&langs_count=7&theme=dracula" alt="Yohan Fraga's Top Languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/yohanfraga">
+        <img src="https://github-readme-stats.vercel.app/api?username=yohanfraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Yohan Fraga's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/yohanfraga">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanfraga&langs_count=7&theme=dracula" alt="Yohan Fraga's Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
