@@ -1,9 +1,7 @@
 
-# Yohan Fraga
+# Hello there! 👋
 
-### Hello there! 👋
-
-I'm a **Software Engineer** dedicated to building robust, scalable, and maintainable solutions. With a strong focus on clean code, SOLID principles, and modern architectural patterns, I am committed to delivering high-quality software. When I'm not coding, you can find me building with LEGO, diving into the Star Wars universe, or enjoying some music.
+My name is Yohan Fraga and I'm a **Software Engineer** dedicated to building robust, scalable, and maintainable solutions. With a strong focus on clean code, SOLID principles, and modern architectural patterns, I am committed to delivering high-quality software. When I'm not coding, you can find me building with LEGO, diving into the Star Wars universe, or enjoying some music.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNzeHBxdHV3YWJ1eWFnaG0zdW44Z3p2MG9sMjQ0ZjM1YW44ejhkcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mP47tgdWChow8/giphy.gif" width="400" />
