@@ -23,6 +23,9 @@ When I'm not coding, you can find me building LEGO, diving into Star Wars, or en
 ### Connect with me
 
 <p align="left">
+  <a href="https://v0-typescript-portfolio-site-gamma.vercel.app" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/yohanfraga" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn" />
   </a>
